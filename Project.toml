@@ -36,7 +36,7 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
 [compat]
 CImGui = "~1.89"
-ColorTypes = "0.11"
+ColorTypes = "0.11, 0.12"
 Configurations = "0.17"
 FileIO = "1"
 ImageIO = "0.6"
